@@ -1,1 +1,1 @@
-#
+[![CircleCI](https://circleci.com/gh/wzieleziecki/spring-cirlceci-recipe-app.svg?style=svg)](https://circleci.com/gh/wzieleziecki/spring-cirlceci-recipe-app)
