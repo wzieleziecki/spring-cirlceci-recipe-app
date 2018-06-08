@@ -73,8 +73,8 @@
 					<formats>
 						<format>html</format>
 						<format>xml</format>
-						<check />
 					</formats>
+					<check />
 				</configuration>
 			</plugin>
 			<plugin>
