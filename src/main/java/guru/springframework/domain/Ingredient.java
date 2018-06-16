@@ -11,6 +11,7 @@ import java.math.BigDecimal;
 @Entity
 public class Ingredient {
 
+    //simple test
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
